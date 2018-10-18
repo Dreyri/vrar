@@ -1,0 +1,33 @@
+* VR/AR
+
+** Presentationen
+   
+*** Kapitel 6
+
+    Wie kommen die 3D Modelle in der 3D Szene rein, bei fertigen 3D Objekten erklaeren was die brauchen um in Unity zu passen.
+
+*** Kapitel 7 - faellt aus
+
+    
+*** Kapitel 8.1
+
+    Den Algo erklaeren
+    Die Barcodes wodrauf Modelle gerendered werden.
+
+*** Kapitel 8.2
+
+    
+*** Kapitel 8.3
+
+*** Kapitel 9
+
+*** Kapitel 10
+
+*** Kapitel 12
+
+    Kann man fuer drausen auch einen Algoritmus entwickeln und wie funktioniert der.
+
+    
+*** Kapitel 15
+
+    Robotter stehen nicht mehr fest sondern koennen auch interagieren mit Menschen und mussen dafuer richtig programmiert werden.

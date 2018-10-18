@@ -1,0 +1,3 @@
+[submodule "praktikum"]
+	path = praktikum
+	url = https://github.com/Dreyri/vrar_praktikum.git
